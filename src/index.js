@@ -1,2 +1,2 @@
-alert("Hello")
-console.log("Hello Masha")
+console.log("Hello Masha");
+console.log("Hello");
